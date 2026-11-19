@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Xiannel 👋
 
-<!--
-**oshxia/oshxia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at the University of San Carlos
+(Software Development Track).
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 Currently learning: C++, Python
+- 🛠️ Interested in: 
+- 🌱 Working on: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+**Languages:** Java, C
+
+**Databases:** MySQL
+
+**Tools:** GitHub
+
+## Featured projects
+- 
+
+## Contact
+- LinkedIn: [Xiannel Sofia Zam Castro](https://www.linkedin.com/in/xiannel-sofia-zam-castro/)
+- Email: xiannelxsofiaxzam@gmail.com
